@@ -1027,8 +1027,8 @@
       }
     },
     "signatoro": {
-      "sha": "638e0a3d3567f4104b523edf398420c77864e4c2",
-      "version": "1.2.0",
+      "sha": "d578cee8454a5466a54a889a4b492ba0da91cf2f",
+      "version": "1.2.1",
       "components": {
         "mcpServers": [
           {

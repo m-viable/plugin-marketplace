@@ -455,7 +455,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/BlastraIO/signatoro-mcp-plugin.git",
-        "sha": "638e0a3d3567f4104b523edf398420c77864e4c2"
+        "sha": "d578cee8454a5466a54a889a4b492ba0da91cf2f"
       },
       "homepage": "https://signatoro.com",
       "keywords": ["signatoro", "signatoro email signature", "signatoro mcp"],
